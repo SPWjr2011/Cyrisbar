@@ -1,0 +1,142 @@
+body{
+    background-image: url(images/menuBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#guiser{
+    border: 5px solid;
+    background: linear-gradient(to bottom,red, brown);
+    position: absolute;
+    left: 665px;
+}
+#twist_Temp{
+    border: 5px solid;
+    background: linear-gradient(to bottom,red, yellow);
+    position: absolute;
+    top: 270px;
+    left: 660px;
+}
+#roy_Rog{
+    border: 5px solid;
+    background: linear-gradient(to bottom,brown,red);
+    position: absolute;
+    top: 407px;
+    left: 680px;
+}
+#menu_2_Btn{
+    position: absolute;
+    top: 600px;
+    left: 650px;
+}
+#menu_1_Btn_Txt{
+    position: absolute;
+    top: 600px;
+    left: 730px;
+}
+#menu_1_Btn{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+#menu_2_Btn_Txt{
+    position: absolute;
+    top: 600px;
+    left: 680px;
+}
+#title{
+    position: absolute;
+    left: -50px;
+    top: -100px;
+}
+#coke{
+    border: 5px solid;
+    background: linear-gradient(to top,red,white);
+    position: absolute;
+    left: 665px; 
+}
+#sprite{
+    border: 5px solid;
+    background: linear-gradient(to bottom,lime,green);
+    position: absolute;
+    left: 665px; 
+    top: 300px;
+}
+#root_beer{
+    border: 5px solid;
+    background: linear-gradient(to top,brown,white);
+    position: absolute;
+    left: 635px; 
+    top: 450px;
+}
+#aboutUsTxt{
+    position: absolute;
+    left: 1300px;
+    top: 50px;
+}
+#backBtn{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+#backTxt{
+    position: absolute;
+    top: 600px;
+    left: 745px;
+}
+#shirlyTemp{
+    border: 5px solid;
+    background: linear-gradient(to bottom,yellow,red);
+    position: absolute;
+    top: 407px;
+    left: 900px;
+}
+#menu_Btn_Txt{
+    position: absolute;
+    top: 600px;
+    left: 730px;
+}
+#menu_Btn{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+#snow_Btn{
+    position: absolute;
+    top: 600px;
+    left: 770px;
+}
+#snow_Btn_Txt{
+    position: absolute;
+    top: 600px;
+    left: 790px;
+}
+#cherrySnowCone{
+    border: 5px solid;
+    background: linear-gradient(to bottom,white,red);
+    position: absolute;
+    top: 25px;
+    left: 675px;
+}
+#strawBerrySnowCone{
+    border: 5px solid;
+    background: linear-gradient(to bottom, red,white);
+    position: absolute;
+    top: 175px;
+    left: 550px;
+}
+#blueBerrySnowCone{
+    border: 5px solid;
+    background: linear-gradient(to bottom,blue,white);
+    position: absolute;
+    top: 325px;
+    left: 550px;
+}
+#orangeSnowCone{
+    border: 5px solid;
+    background: linear-gradient(to bottom,orange,white);
+    position: absolute;
+    top: 475px;
+    left: 550px;
+}
